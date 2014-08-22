@@ -1,4 +1,2 @@
-bare
+Bare
 ====
-
-Bare base project

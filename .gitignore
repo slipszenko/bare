@@ -1,0 +1,4 @@
+.DS_Store
+includes/config.php
+composer.lock
+vendor/

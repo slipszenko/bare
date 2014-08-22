@@ -1,0 +1,8 @@
+{
+    "require" : {
+        "smarty/smarty" : "dev-trunk",
+        "altorouter/altorouter": "dev-master",
+        "phpmailer/phpmailer" : "dev-master",
+        "phpunit/phpunit" : "4.1.*"
+    }
+}
